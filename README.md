@@ -3,6 +3,12 @@ Projeto PSET 1 - CC1N
 
 ### Vitor Deernose - Prof. Abrantes Filho
 
+Observação
+--------------------------------
+Abaixo apresento o projeto original (com marcaçoes para identificação visual) que o Abrantes disponibilizou para o PSET 1
+analisando 
+![hr](https://user-images.githubusercontent.com/32472199/201040044-15b6f8e9-62f4-4b8e-9b95-9661e18a8c96.png)
+
 Construção
 --------------------------------
 #### Para construir o banco de dados utilizei o Power Architect
