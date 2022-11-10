@@ -4,6 +4,9 @@ DROP DATABASE uvv;
 ----------------------------------------------------------------------------------
 CREATE DATABASE uvv;
 USE uvv;
+GRANT ALL PRIVILEGES ON * TO 'Vitor_teste'@'%' IDENTIFIED BY '1234';
+
+SYSTEM MYSQL -u 'Vitor_teste' -p
 ----------------------------------------------------------------------------------
 -- INSERIR TODAS TABELAS
 ----------------------------------------------------------------------------------
