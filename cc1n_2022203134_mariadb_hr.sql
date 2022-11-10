@@ -228,6 +228,8 @@ em que o empregado estava trabalhando no passado.';
 ----------------------------------------------------------------------------------
 -- NO DIRETORIO DO GITHUB VOU DEIXAR DOCUMENTADO OS SCRIPTS DE SELECT PARA 
 -- IMPORTAR O BANCO DE DADOS HR DA ORACLE
+-- NESSA PARTE DO CODIGO O DANIEL EU FIZ EM CHAMADA COM O DANIEL PORQUE ELE ESTAVA
+-- SEM A MAQUINA VIRTUAL.
 ----------------------------------------------------------------------------------
 -- HR REGIOES
 ----------------------------------------------------------------------------------
