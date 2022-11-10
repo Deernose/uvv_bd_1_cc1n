@@ -15,6 +15,8 @@ Construção
 
 ![image](https://user-images.githubusercontent.com/32472199/201028335-01a5da38-c5e9-40a6-be4d-777f158a8863.png)
 
+Inserindo dados
+--------------------------------
 Primeiro fiz o teste colocando todo script do Power architect depois inserindo as informaçoes, 
 porem ao chegar a tabela 'empregados' e 'departamentos' encontrei um loop onde não pude prosseguir, por conta disso eu separei as CONSTRAINT'S de relação dessa etapa e a coloquei no fim do script.
 
