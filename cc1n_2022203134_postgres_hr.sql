@@ -4,7 +4,7 @@ DROP DATABASE uvv;
 -- CRIAR A DATABASE DA UVV COM O NOME SOLICITADO PELO PROFESSOR
 ----------------------------------------------------------------------------------
 CREATE DATABASE uvv;
-CREATE USER vitor_deernose_teste WITH ENCRYPTED PASSWORD '1234';
+CREATE USER vitor_teste WITH ENCRYPTED PASSWORD '1234';
 ----------------------------------------------------------------------------------
 --
 --
