@@ -1,8 +1,7 @@
 Projeto PSET 1 - CC1N
 ================================
 
-## Prof. Abrantes Filho
-## Vitor Deernose 
+### Vitor Deernose - Prof. Abrantes Filho
 
 Construção
 --------------------------------
