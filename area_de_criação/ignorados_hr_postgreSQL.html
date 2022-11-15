@@ -1,0 +1,65 @@
+<table>
+ <tr>
+  <th>null</th>
+  <th>Object</th>
+  <th>Critic Type</th>
+  <th>Description</th>
+  <th>null</th>
+ </tr>
+ <tr>
+  <td>ERROR</td>
+  <td>regioes_paises_fk</td>
+  <td>Generic</td>
+  <td>Columns id_regiao: INTEGER and id_regiao: INTEGER related by FK constraint have different types, scale, or precision</td>
+  <td>[ca.sqlpower.architect.ddl.critic.impl.RelationshipMappingTypeCritic$1@20dad0d8, ca.sqlpower.architect.ddl.critic.impl.RelationshipMappingTypeCritic$2@410e8e7a]</td>
+ </tr>
+ <tr>
+  <td>ERROR</td>
+  <td>paises_localizacoes_fk</td>
+  <td>Generic</td>
+  <td>Columns id_pais: CHAR(2) and id_pais: CHAR(2) related by FK constraint have different types, scale, or precision</td>
+  <td>[ca.sqlpower.architect.ddl.critic.impl.RelationshipMappingTypeCritic$1@14f0cb44, ca.sqlpower.architect.ddl.critic.impl.RelationshipMappingTypeCritic$2@3d5d9264]</td>
+ </tr>
+ <tr>
+  <td>ERROR</td>
+  <td>localizacoes_departamentos_fk</td>
+  <td>Generic</td>
+  <td>Columns id_localizacao: INTEGER and id_localizacao: INTEGER related by FK constraint have different types, scale, or precision</td>
+  <td>[ca.sqlpower.architect.ddl.critic.impl.RelationshipMappingTypeCritic$1@4bf7c907, ca.sqlpower.architect.ddl.critic.impl.RelationshipMappingTypeCritic$2@7ebfe35d]</td>
+ </tr>
+ <tr>
+  <td>ERROR</td>
+  <td>departamentos_empregados_fk</td>
+  <td>Generic</td>
+  <td>Columns id_departamento: INTEGER and id_departamento: INTEGER related by FK constraint have different types, scale, or precision</td>
+  <td>[ca.sqlpower.architect.ddl.critic.impl.RelationshipMappingTypeCritic$1@6c07ad25, ca.sqlpower.architect.ddl.critic.impl.RelationshipMappingTypeCritic$2@3d98dc73]</td>
+ </tr>
+ <tr>
+  <td>ERROR</td>
+  <td>departamentos_historico_cargos_fk</td>
+  <td>Generic</td>
+  <td>Columns id_departamento: INTEGER and id_departamento: INTEGER related by FK constraint have different types, scale, or precision</td>
+  <td>[ca.sqlpower.architect.ddl.critic.impl.RelationshipMappingTypeCritic$1@48d29536, ca.sqlpower.architect.ddl.critic.impl.RelationshipMappingTypeCritic$2@49f6227a]</td>
+ </tr>
+ <tr>
+  <td>ERROR</td>
+  <td>id_supervisor: INTEGER</td>
+  <td>Generic</td>
+  <td>Duplicate physical name "empregados_id_empregado_seq". There is a Column in empregados with this name already.</td>
+  <td>[ca.sqlpower.architect.ddl.critic.impl.DuplicateNameCritic$2@18c9c0e4]</td>
+ </tr>
+ <tr>
+  <td>ERROR</td>
+  <td>empregados_empregados_fk</td>
+  <td>Generic</td>
+  <td>Columns id_empregado: INTEGER and id_supervisor: INTEGER related by FK constraint have different types, scale, or precision</td>
+  <td>[ca.sqlpower.architect.ddl.critic.impl.RelationshipMappingTypeCritic$1@6349fcca, ca.sqlpower.architect.ddl.critic.impl.RelationshipMappingTypeCritic$2@3f6ebeb0]</td>
+ </tr>
+ <tr>
+  <td>ERROR</td>
+  <td>empregados_departamentos_fk</td>
+  <td>Generic</td>
+  <td>Columns id_empregado: INTEGER and id_gerente: INTEGER related by FK constraint have different types, scale, or precision</td>
+  <td>[ca.sqlpower.architect.ddl.critic.impl.RelationshipMappingTypeCritic$1@4773bed5, ca.sqlpower.architect.ddl.critic.impl.RelationshipMappingTypeCritic$2@11eb983f]</td>
+ </tr>
+</table>
