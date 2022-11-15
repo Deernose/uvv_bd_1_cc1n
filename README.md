@@ -13,7 +13,7 @@ Construção
 --------------------------------
 #### Para construir o banco de dados utilizei o Power Architect
 
-![image](https://user-images.githubusercontent.com/32472199/201028335-01a5da38-c5e9-40a6-be4d-777f158a8863.png)
+![image]
 
 Inserindo dados
 --------------------------------
