@@ -4,7 +4,7 @@
  <print-settings numCopies="1" zoom="1.0" pageNumbersPrinted="true" orientation="1" paperWidth="612.0" paperHeight="792.0" leftBorder="50.0" rightBorder="50.0" topBorder="50.0" bottomBorder="50.0" />
  <project-data-sources>
   <data-source id="DS0">
-   <property key="Logical" value="New Connection" />
+   <property key="Logical"   value="New Connection" />
    <property key="Connection Type" value="Oracle 8i" />
    <property key="JDBC URL" value="jdbc:oracle:thin:@localhost:1521:xepdb1" />
    <property key="UID" value="hr" />
