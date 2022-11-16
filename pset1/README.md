@@ -25,13 +25,17 @@ Comandos ORACLE SQL 'HR'
 #### REGIOES:
 ```sh
 SELECT 'INSERT INTO regioes (id_regiao, nome) VALUES ('
-  || region_id || ', ''' || region_name || ''');'
+  || region_id || ', ''' 
+  || region_name || ''');'
 from regions;
 ```
 
 #### PAISES
 ```sh
-SELECT 'INSERT INTO paises (id_pais, id_regiao, nome) VALUES (''' || country_id || ''', ' || region_id || ', ''' || country_name || ''');'
+SELECT 'INSERT INTO paises (id_pais, id_regiao, nome) VALUES ('
+'' || country_id || 
+''', ' || region_id || ', 
+''' || country_name || ''');'
 from countries;
 ```
 
