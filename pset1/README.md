@@ -23,13 +23,17 @@ porem ao chegar a tabela 'empregados' e 'departamentos' encontrei um loop onde n
 Comandos ORACLE SQL 'HR'
 --------------------------------
 #### REGIOES:
->SELECT 'INSERT INTO regioes (id_regiao, nome) VALUES ('
->  || region_id || ', ''' || region_name || ''');'
->from regions;
+```sh
+SELECT 'INSERT INTO regioes (id_regiao, nome) VALUES ('
+  || region_id || ', ''' || region_name || ''');'
+from regions;
+```
 
 #### PAISES
->SELECT 'INSERT INTO paises (id_pais, id_regiao, nome) VALUES (''' || country_id || ''', ' || region_id || ', ''' || country_name || ''');'
->from countries;
+```sh
+SELECT 'INSERT INTO paises (id_pais, id_regiao, nome) VALUES (''' || country_id || ''', ' || region_id || ', ''' || country_name || ''');'
+from countries;
+```
 
 #### LOCALIZACOES
 ```sh
