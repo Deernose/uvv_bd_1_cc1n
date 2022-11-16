@@ -14,7 +14,7 @@ GRANT ALL PRIVILEGES ON *.* TO 'deernose'@'%' IDENTIFIED BY '1234';
 --
 --                      SENHA: 1234
 --
---
+-- 
 --
 ----------------------------------------------------------------------------------
 -- \c uvv deernose;

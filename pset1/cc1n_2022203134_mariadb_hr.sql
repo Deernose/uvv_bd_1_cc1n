@@ -15,7 +15,7 @@ GRANT ALL PRIVILEGES ON *.* TO 'deernose'@'%' IDENTIFIED BY '1234';
 --                      SENHA: 1234
 ----------------------------------------------------------------------------------
 \! echo 'EFETUE LOGIN'
-\! echo 'SENHA = 1234'
+\! echo 'SENHA = 1234' 
 \! echo '...'
 -- SYSTEM mysql -u 'deernose' -p
 
