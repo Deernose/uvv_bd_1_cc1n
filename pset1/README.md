@@ -7,13 +7,13 @@ Observação
 --------------------------------
 Abaixo apresento o projeto original (com marcaçoes para identificação visual) que o Abrantes disponibilizou para o PSET 1
 analisando 
-![hr](https://user-images.githubusercontent.com/32472199/201040044-15b6f8e9-62f4-4b8e-9b95-9661e18a8c96.png)
+![hr](https://github.com/Deernose/uvv_bd_1_cc1n/blob/main/proposta_do_pset1/hr.png?raw=true)
 
 Construção
 --------------------------------
 #### Para construir o banco de dados utilizei o Power Architect
 
-![image]
+![hr](https://github.com/Deernose/uvv_bd_1_cc1n/blob/main/area_de_cria%C3%A7%C3%A3o_pset1/projeto%20logico.png?raw=true)
 
 Inserindo dados
 --------------------------------
