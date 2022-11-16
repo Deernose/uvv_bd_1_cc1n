@@ -2,6 +2,7 @@
 \! echo 'RESETANDO DATABASE PARA AS CONFIGURAÇOES PADROES'
 DROP DATABASE IF EXISTS uvv;
 DROP USER IF EXISTS 'deernose'@'localhost';
+\! echo '...'
 ----------------------------------------------------------------------------------
 -- CRIAR A DATABASE DA UVV COM O NOME SOLICITADO PELO PROFESSOR
 ----------------------------------------------------------------------------------
