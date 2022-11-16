@@ -1,6 +1,6 @@
-Autor
+Autor: Vitor Deernose
 --------------------------------
-### Vitor Deernose
+
 
 ### Este repositório é referente ao projeto PSet (Problem Sets) de Banco de Dados da turma CC1N da UVV.
 Prof. Abrantes Filho
