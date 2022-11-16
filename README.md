@@ -2,7 +2,7 @@ Autor
 --------------------------------
 ### Vitor Deernose
 
-##Este repositório é referente ao projeto PSet (Problem Sets) de Banco de Dados da turma CC1N da UVV.
+### Este repositório é referente ao projeto PSet (Problem Sets) de Banco de Dados da turma CC1N da UVV.
 Prof. Abrantes Filho
 ## Suporte
 Além de reportar sugestoes e bugs aqui no GitHub você pode entrar no meu Discord e tirar suas dúvidas agora mesmo!
