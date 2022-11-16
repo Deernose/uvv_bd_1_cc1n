@@ -76,6 +76,6 @@ Comandos ORACLE SQL 'HR'
 >  || employee_id || ', '''
 >  || TO_CHAR(start_date, 'YYYY-MM-DD') || 
 >  ''', ''' || TO_CHAR(end_date, 'YYYY-MM-DD') || 
->  ''', ' || job_id ||
->  ', ' || department_id || ');'
+>  ''', ''' || job_id ||
+>  ''', ' || department_id || ');'
 >from job_history;

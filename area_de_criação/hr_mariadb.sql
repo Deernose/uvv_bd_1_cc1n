@@ -69,7 +69,7 @@ CREATE TABLE localizacoes (
                 uf VARCHAR(25),
                 id_pais CHAR(2),
                 PRIMARY KEY (id_localizacao)
-);
+); 
 
 ALTER TABLE localizacoes COMMENT 'Tabela localizaçõs. Contém os endereços de diversos escritórios e facilidades
 da empresa. Não armazena endereços de clientes.';

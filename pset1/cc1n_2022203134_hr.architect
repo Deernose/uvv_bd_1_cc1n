@@ -284,7 +284,7 @@ cargos &apos;id_cargo&apos; &gt;&gt; historico_cargos &apos;id_cargos&apos;;</re
    </relationship>
    <relationship id="REL73" populated="true" UUID="4772086c-ddb8-4507-b9be-2a017882118e" deferrability="7" deleteRule="3" fk-table-ref="TAB34" fkCardinality="7" identifying="false" name="departamentos_empregados_fk" physicalName="departamentos_empregados_fk" pk-table-ref="TAB25" pkCardinality="2" updateRule="3" >
     <column-mapping id="CMP74" populated="true" UUID="3ee9f5af-9664-40a6-a041-0bc23f61a218" fk-column-ref="COL43" name="Column Mapping" physicalName="Column Mapping" pk-column-ref="COL26" />
-   </relationship>
+   </relationship> 
    <relationship id="REL75" populated="true" UUID="081ab1eb-3fe5-47d4-9ede-6b063fff14a2" deferrability="7" deleteRule="3" fk-table-ref="TAB49" fkCardinality="7" identifying="false" name="departamentos_historico_cargos_fk" physicalName="departamentos_historico_cargos_fk" pk-table-ref="TAB25" pkCardinality="2" updateRule="3" >
     <column-mapping id="CMP76" populated="true" UUID="16c76b6d-2320-4bc4-92d1-7820c2669386" fk-column-ref="COL54" name="Column Mapping" physicalName="Column Mapping" pk-column-ref="COL26" />
    </relationship>
