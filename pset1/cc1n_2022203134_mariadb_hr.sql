@@ -1,5 +1,5 @@
 \! echo 'RESETANDO DATABASE PARA AS CONFIGURAÇOES PADROES'
-DROP DATABASE uvv;
+DROP DATABASE IF EXISTS uvv;
 DROP USER IF EXISTS 'deernose'@'localhost';
 \! echo '...'
 ----------------------------------------------------------------------------------
@@ -9,7 +9,7 @@ DROP USER IF EXISTS 'deernose'@'localhost';
 \! echo 'CRIANDO DATABASE E USUARIO'
 CREATE DATABASE uvv;
 USE uvv;
-GRANT ALL PRIVILEGES ON uvv.* TO 'deernose'@'%' IDENTIFIED BY '1234';
+GRANT ALL PRIVILEGES ON *.* TO 'deernose'@'%' IDENTIFIED BY '1234';
 \! echo '...'
 ----------------------------------------------------------------------------------
 --                      SENHA: 1234
